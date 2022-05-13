@@ -1,4 +1,4 @@
-# write-vuex2.x-source
+# write-vuex3.x-source
 
 ## Project setup
 ```
